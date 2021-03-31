@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darpan Mittal</h1>
+<h1 align="center"># Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darpan Mittal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpan1107&label=Profile%20views&color=0e75b6&style=flat" alt="darpan1107" /> </p>
 
 - 📫 How to reach me **mittal11darpan@gmail.com**
