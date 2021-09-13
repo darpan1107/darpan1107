@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mittal11darpan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wuk-x8zdj4p1Mm7xl4qV3qCIVEs3ZUWb/view?usp=sharing](https://drive.google.com/file/d/1wuk-x8zdj4p1Mm7xl4qV3qCIVEs3ZUWb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b5xQuSNjSh9uQkqR9O25I1bDw1EtkuUj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
